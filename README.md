@@ -1,1 +1,1 @@
-# 分享适配，分享代码
+# share video & share code
